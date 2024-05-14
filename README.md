@@ -9,7 +9,7 @@ This project is a comprehensive shopping cart application created using a dummy 
 
 Technologies Used
 
-    Frontend:
+    Frontend: 
         HTML
         CSS
         JavaScript
